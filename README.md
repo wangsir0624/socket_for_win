@@ -1,0 +1,2 @@
+# socket_for_win
+PHP写的并发服务器框架，可以用几行代码搭建一个websocket服务器和http服务器
